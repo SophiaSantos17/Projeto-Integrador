@@ -26,25 +26,25 @@ body {
     --roxo: #AA20FF;
     --branco: #FAFAFA;
     --preto: #000;
-    --height-header: 150px;
-    --poppins: 'Open Sans', sans-serif;
+    --height-header: 100px;
+    --opensans: 'Open Sans', sans-serif;
 }
 
 /* Estilo de fontes nos titulos e textos */
 
 h1 {
-    font-family: var(--poppins);
+    font-family: var(--opensans);
     font-weight: 400;
     /* font-size: 2.5rem; */
 }
 
 h2 {
-    font-family: var(--poppins);
+    font-family: var(--opensans);
     /* font-size: 1.9rem; */
 }
 
 h3 {
-    font-family: var(--poppins);
+    font-family: var(--opensans);
     /* font-size: 1.75rem; */
 }
 
@@ -53,7 +53,7 @@ p,
 a,
 span,
 li {
-    font-family: var(--montserrat);
+    font-family: var(--opensans);
     font-size: 1rem;
     font-weight: 500;
 }
@@ -65,22 +65,22 @@ button,
 select,
 option,
 label {
-    font-family: var(--poppins);
+    font-family: var(--opensans);
     /* font-size: 1rem; */
     outline: none;
 }
 
 h6 {
-    font-family: var(--poppins);
+    font-family: var(--opensans);
     /* font-size: 0.75rem; */
 }
 
 th {
-    font-family: var(--poppins);
+    font-family: var(--opensans);
 }
 
 td {
-    font-family: var(--montserrat);
+    font-family: var(--opensans);
 }
 
 /* Resets de links e listas */
